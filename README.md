@@ -1,4 +1,2 @@
-.p1 {
-  font-family: "Just give a star if you liked this repo and if it had helped you!", Times, serif;
-}
-# DataStructures-and-Algorithm
+# Just give a star if you liked this repo and if it had helped you!
+   # DataStructures-and-Algorithm
