@@ -148,13 +148,3 @@ int main() {
 
   return 0;
 }
-
-
-
-
-
-//reverse a sentence using stack --> https://onecompiler.com/cpp/3x7espe3h
-//prefix expression evaluation --> https://onecompiler.com/cpp/3x7f7cn5q
-//postfix expression evaluation --> https://onecompiler.com/cpp/3x7j2z49v
-//infix to postfix --> https://onecompiler.com/cpp/3x7jbcmtm
-//infix to prefix --> https://onecompiler.com/cpp/3x7mtmdqt
