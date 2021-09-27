@@ -1,5 +1,5 @@
 //the last node of each level is the rightmost node
-//will be doing a reverse of preorfer traversal(root - right - left)
+//will be doing a reverse of preorder traversal(root - right - left)
 
 void process(TreeNode* root , int level , vector<int>&res){
   
@@ -13,7 +13,7 @@ void process(TreeNode* root , int level , vector<int>&res){
 vector<int>rightview(TreeNode* root){
   
   vector<int>res;
-  if(!root) return ans;
+  if(!root) return res;
   process(root,0,res);
   return res;
   
