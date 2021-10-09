@@ -1,6 +1,7 @@
-  # Just give a star if you liked this repo and if it had helped you!
-<h1 align="center">DataStructures-and-Algorithm and Competitve Programming</h1>
 
+<h1 align="center">DataStructures-and-Algorithm and Competitve Programming</h1>
+<h3 align="center"><b> <i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me.</i></b></h3>
+        
 ### Why companies like Amazon, Microsoft, Google focuses on Data Structures and Algorithms
 
 If you’re preparing for a tech interview of any big tech company like Adobe, Amazon, Microsoft, Google, etc. – most probably, you would have known about the importance of Data Structures and Algorithms to crack these interviews. Yes, most of the interviews for technical roles in these companies are focused on measuring the **Data Structures and Algorithms** knowledge of the candidates.
@@ -13,7 +14,7 @@ There are multiple reasons why **Product Based Companies** place so much empha
 2. Questions based on Data Structures and Algorithms can be **scaled up or down** according to the knowledge level of the candidate. This means that a variety of candidates can be tested using roughly the same problems.
 3. Data Structures and Algorithms are used to test the **analytical skills** of the candidates as they are a useful tool to pick out the underlying algorithms in real-world problems and solve them efficiently.
 4. Data Structures and Algorithms are the **fundamentals** of Software Development. They remain the same no matter what new technology is used and that puts the focus on the problem rather than the technology in the interview process.
-<img  src="https://static-fastly.hackerearth.com/static/hackerearth/images/marketing/algorithm_blog/algo-og.jpg" width="100%">
+<img width="1188" alt="DSA banner" src="https://user-images.githubusercontent.com/64855541/135758397-513b4edf-a93f-477e-a78e-a80d7265bcd8.png">
 
 1. [Introduction to Git](https://www.youtube.com/watch?v=apGV9Kg7ics)
 2. Introduction to Programming
@@ -258,5 +259,7 @@ There are multiple reasons why **Product Based Companies** place so much empha
 
 **Important** - Every now and then, usually before creating a pull request to post your solutions, please create a reverse pull request(i,e, keep base repo as your forked one and the head repo as the CODE++ original repo) so that your forked repo gets updated wrt original repo. Or, you can simply click on Fetch upstream in your forked repo.
 
-**Note** - We encourage you to explain your code also in your words so that it'll be easy for others to understand.
+## Connect with me: 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/subham-sharma-b04689203/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/subhamengine)
+<hr>
 
