@@ -259,7 +259,7 @@ There are multiple reasons why **Product Based Companies** place so much empha
 
 **Important** - Every now and then, usually before creating a pull request to post your solutions, please create a reverse pull request(i,e, keep base repo as your forked one and the head repo as the CODE++ original repo) so that your forked repo gets updated wrt original repo. Or, you can simply click on Fetch upstream in your forked repo.
 
-## Connect with me: [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subhamengine@gmail.com <subhamengine@gmail.com>;)](mailto:subhamengine@gmail.com <subhamengine@gmail.com>;)
+## Connect with me: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/subham-sharma-b04689203/)[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/subhamengine)
 <hr>
 
