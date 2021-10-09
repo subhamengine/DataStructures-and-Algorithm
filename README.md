@@ -1,4 +1,4 @@
-# Just give a star if you liked this repo and if it had helped you!
+  # Just give a star if you liked this repo and if it had helped you!
 <h1 align="center">DataStructures-and-Algorithm and Competitve Programming</h1>
 
 ### Why companies like Amazon, Microsoft, Google focuses on Data Structures and Algorithms
