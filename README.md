@@ -1,6 +1,6 @@
 
 
-<h1 align="center">DataStructures-and-Algorithm and Competitve Programming</h1>
+<h1 align="center">DataStructures-and-Algorithm</h1>
 <h3 align="center"><b> <i>If you appreciate my work, please</i></b> 🌟 <b><i>this repository. It motivates me.</i></b></h3>
         
 ### Why companies like Amazon, Microsoft, Google focuses on Data Structures and Algorithms
