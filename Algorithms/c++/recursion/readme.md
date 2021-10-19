@@ -12,7 +12,8 @@ The figure below shows how recursion works by calling itself over and over again
 
 To prevent infinite recursion, if...else statement (or similar approach) can be used where one branch makes the recursive call and the other doesn't.</p>
 <h2>Example 1: Factorial of a Number Using Recursion</h2>
-![image](https://user-images.githubusercontent.com/83713146/137940221-4604d4eb-79b8-4793-b1e3-72bb4261a006.png)
+![eg1](https://user-images.githubusercontent.com/83713146/137940809-701af5fd-5fa5-47a1-8466-cec02f7fe75a.jpg)
+
 ![image](https://user-images.githubusercontent.com/83713146/137940267-58981827-41dd-4c7b-94ca-db405dab123f.png)
 <h2>Advantages and Disadvantages of Recursion</h2>
 <h3>Below are the pros and cons of using recursion in C++.</h3>
