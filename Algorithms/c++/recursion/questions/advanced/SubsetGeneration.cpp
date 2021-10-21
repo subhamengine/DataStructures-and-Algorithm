@@ -8,8 +8,10 @@ void generate(vector<int>&subset , int i , vector<int>&nums){
     subsets.push_back(subset);
     return;
   }
-  generate(subset , i + 1 , nums);
-  subset.push_back(nums[i]);
+  generate(subset , i + 1 , nums);    //not considering ith element
+  
+  subset.push_back(nums[i]);    //considering ith element
+  
   generate(subset , i + 1 , nums);
   subset.pop_back();
 }
