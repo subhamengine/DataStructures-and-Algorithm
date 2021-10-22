@@ -11,5 +11,5 @@ void push(int num){
 }
 
 void pop(){
-  q1.pop();
+  st1.pop();
 }
