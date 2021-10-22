@@ -8,7 +8,7 @@ void stackusingqueue(){
   //then push all the elements from q2 and push to q1(element by element).
   //for pop => q1.pop(); , for top => q1.top();
   
-  //optimised way = using a singlr queue
+  //optimised way = using a single queue
   
   void push(int x){
     queue<int>q1;
