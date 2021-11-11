@@ -2,7 +2,7 @@ vector<int>TopoSort(int n , vector<int>adj[]){
   queue<int>q;
   vector<int>indegree(n,0);
   for(int i = 0 ; i < n ; i++){
-    for(auto it : adj[it]){
+    for(auto it : adj[i]){
       indegree(it)++;
     }
   }
