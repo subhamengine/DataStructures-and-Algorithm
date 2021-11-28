@@ -1,0 +1,33 @@
+class Solution {
+public:
+   bool solve(int src,int k,vector<pair<int,int> > g[],vector<bool> &vis){
+    vis[src] = true;
+    if(k<=0) return true;
+ 
+    for(auto x:g[src]){
+        int u = x.first;
+        int w = x.second;
+        if(vis[u]==true) 
+            continue;
+        if(w>=k) 
+            return true;
+ 
+        if(solve(u,k-w,g,vis))
+            return true;
+ 
+    }
+    vis[src] = false;
+    return false;
+}
+    bool pathMoreThanK(int v, int E, int k, int a[]) 
+    { 
+       vector<pair<int,int>>g[v];
+       
+       for(int i = 0 ; i < 3*E; i = i+3){
+           g[a[i]].push_back({a[i+1],a[i+2]});
+           g[a[i+1]].push_back({a[i],a[i+2]});
+       }
+       vector<bool>vis(v,false);
+       return solve(0,k,g,vis);
+    }
+};
