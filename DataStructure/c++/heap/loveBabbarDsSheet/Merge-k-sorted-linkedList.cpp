@@ -25,3 +25,7 @@ class Solution{
            return dummy->next;
     }
 };
+/*take the smallest or the head node of each of the k lists and push it to
+the minheap. Then take out the top of the min heap and attach it to the ans.
+Then check wheather the next of the top element is not empty, push the next element.
+Continue this process untill the queue dosent becomes empty.
