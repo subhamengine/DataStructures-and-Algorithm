@@ -1,0 +1,17 @@
+class Solution {
+public:
+    void reverse(vector<char>&s , int i , int index){
+        if(i < index) return;
+        int temp = s[index];
+        s[index] = s[i];
+        s[i] = temp;
+        i--;
+        index++;
+        reverse(s,i,index);
+    }
+    void reverseString(vector<char>& s) { 
+        int i = s.size()-1;
+        int index = 0;
+        reverse(s,i,index);
+    }
+};
